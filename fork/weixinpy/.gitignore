@@ -1,0 +1,6 @@
+build
+*.pyc
+wxtest.py
+newtest.py
+access_token
+Makefile
